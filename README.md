@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinh Tran</h1>
-<h3 align="center">Tester</h3>
+<h3 align="center">QA Automation</h3>
 <img align ="right" width ="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0a2ba2111109037.5ffc84dc1d61d.gif">  
 
 - 📫 How to reach me **tranthinhqnam@gmail.com**
