@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinh Tran</h1>
-<h3 align="center">QA Automation</h3>
+<h3 align="center">QA Automation | Dev </h3>
 
 - Reach me **tranthinhqnam@gmail.com**
 
